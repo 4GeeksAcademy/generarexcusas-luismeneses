@@ -24,5 +24,4 @@ window.onload = function() {
   const excuse = randomWho+" "+randoAction+" "+randomWhat+" "+randomWhen
   const element = document.getElementById("myExcuse")
   element.innerHTML= excuse
-  console.log(excuse);
 };
